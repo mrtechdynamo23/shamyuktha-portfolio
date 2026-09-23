@@ -1,87 +1,77 @@
-# ⚡ Sudharrshan S — Enhanced Engineering Portfolio
+# ✦ Shamyuktha S — Personal AI/ML & Generative AI Portfolio
 
-A modern, high-performance developer portfolio featuring interactive WebGL fluid dynamics, smooth micro-interactions, responsive architecture, and deep technical showcase.
+A modern, high-performance personal portfolio website for **Shamyuktha S**, showcasing expertise in Artificial Intelligence, Machine Learning, Generative AI, Natural Language Processing, and Python development, alongside hands-on experience in Java full-stack engineering and data engineering.
 
-🌐 **Live Demo:** [https://mrtechdynamo23.github.io/portfolio-enhanced/](https://mrtechdynamo23.github.io/portfolio-enhanced/)
-
----
-
-## 🎨 Visual Design System
-
-- **Palette**: Obsidian (`#080D14`, `#0D1622`), Midnight Navy (`#111D2B`), Electric Cyan (`#5CC8FF`), and Teal (`#38D6C0`).
-- **Interactive Fluid Canvas**: Real-time WebGL fluid dynamics engine with low-power battery detection and dynamic quality scaling.
-- **Micro-Interactions**: 3D perspective tilt on cards, cursor-following glow, staggered scroll reveals, and custom modal overlays.
-- **Zero Framework Bloat**: Pure semantic HTML5, Vanilla CSS3 (custom properties & responsive grids), and modular vanilla JavaScript.
+🌐 **GitHub Profile:** [https://github.com/shamyukthaS](https://github.com/shamyukthaS)  
+💼 **LinkedIn:** [https://www.linkedin.com/in/shamyukthasuresh/](https://www.linkedin.com/in/shamyukthasuresh/)  
+📄 **Resume:** [View / Download Resume](https://drive.google.com/file/d/11C_qWQMV_m58pqyDp4ZujjlxUR1Ae7YP/view?usp=sharing)  
+📑 **Published Research:** [CRISPR gRNA Efficiency Prediction (JAAFR)](https://rjwave.org/jaafr/viewpaperforall.php?paper=JAAFR2603799)  
+📧 **Email:** [shamyukthasuresh7@gmail.com](mailto:shamyukthasuresh7@gmail.com)
 
 ---
 
-## 🚀 Key Sections
+## 🎨 Visual Identity & Architecture
 
-1. **Hero**: Interactive fluid simulation with dynamic typing effect and resume direct download.
-2. **About Me**: Engineering philosophy, core attributes, and contact channels.
-3. **Experience**: Software engineering roles at SPYDX, Xonther Technologies, and IBM.
-4. **Featured Projects**:
-   - **JARVIS & Jarvis-2.0**: Voice-activated AI assistant with real-time NLP speech recognition and pyttsx3 synthesis.
-   - **LexiSense**: Intelligent NLP & text analysis platform processing unstructured text for actionable insights.
-   - **CRISPR gRNA Efficiency Prediction**: Deep learning CNN model predicting CRISPR-Cas9 cleavage efficiency and off-target risk.
-   - **Medico**: Full-stack medical portal for appointments, EHR management, and role-based access.
-   - **Pool Consultant Management**: Automated NLP candidate-to-role matching with dashboard analytics.
-   - **Helmet Detection System**: Real-time YOLOv8 safety compliance detection.
-5. **Research & Publications**: Deep learning genomic paper published in the *Journal of Advances in Agriculture and Forestry Research (JAAFR)*.
-6. **Verified Certifications**:
-   - Microsoft Certified: Agentic AI Business Solutions Architect
-   - SAP Certified – Generative AI Developer
-   - Claude in Amazon Bedrock (Anthropic · AWS)
-   - Claude with Google Cloud's Vertex AI (Anthropic · Google Cloud)
-   - Microsoft Certified: AI Agent Builder Associate
-   - Google Cloud Career Certificate
-   - Oracle Certified Professional: Java SE 21 Developer
-7. **Honors & Competitions**:
-   - **Shaastra 2025 (IIT Madras)** — Champion
-   - **TCS HackQuest** — Top 5
-   - **Smart India Hackathon** — Top 15
-   - **KaarTech AION** — 3rd Place
-8. **Academic Background**: B.E. Computer Science & Engineering (SRM VEC, CGPA: 9.32), HSC (91.8%), SSLC (92.4%).
-9. **Technical Arsenal**: Languages, Frameworks, Cloud / DevOps, and Developer Tooling.
-10. **Testimonials**: Verified recommendations from peers and collaborators.
-11. **GitHub Activity**: Real-time streak stats, contribution chart, and profile metrics.
-12. **Notes & Writing**: Technical deep dives on CNNs in genomics, low-latency voice AI, and Spring Boot/React patterns.
-13. **Contact**: Interactive connection channels and direct email dispatch.
+- **Visual Palette**: Premium White + Royal Blue + Slate Navy (`#F8FAFC`, `#FFFFFF`, `#0F172A`, `#2563EB`, `#0EA5E9`, `#DBEAFE`).
+- **Understated AI Canvas**: Lightweight canvas-based neural network constellation animating subtle particle interactions in the Hero section.
+- **Micro-Interactions**: Smooth section reveals via `IntersectionObserver`, typewriter role animations, project detail modal system with keyboard accessibility, active navigation highlighting, and responsive mobile drawer.
+- **Zero Framework Bloat**: Pure semantic HTML5, Vanilla CSS3 (CSS custom properties, modern flexbox & grid), and modular Vanilla JavaScript.
+- **Accessibility & Motion**: Adheres to modern web accessibility standards with complete `@media (prefers-reduced-motion: reduce)` support.
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Sections Included
 
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
-- **Graphics**: WebGL / Canvas Fluid Simulation
-- **Fonts**: Syne, Space Grotesk, JetBrains Mono (Google Fonts)
+1. **Hero**: Split layout featuring verified profile photograph (`Shamyuktha Profile.jpg`), dynamic typewriter role switching, resume download CTA, and social channels.
+2. **Technology Marquee**: Infinite smooth scrolling ribbon highlighting Python, Java, SQL, Machine Learning, NLP, Generative AI, Django, Spring Boot, MySQL, Snowflake, Apache Airflow, Azure, and Git.
+3. **01 // About Me**: Professional background as a Computer Science Engineering Graduate (CGPA: 8.82) with 4 quick stats cards.
+4. **02 // Experience**: Timeline covering software and data internships at SPYDX, Interlace India Pvt. Ltd., and Living Assets Builder Pvt. Ltd.
+5. **03 // Projects**: Filterable project gallery (ALL, AI/ML, Generative AI/NLP, Web Development, Other) with interactive detail modals:
+   - **CRISPR gRNA Prediction & Analysis** (Deep Learning CNN · Bioinformatics · Featured Research)
+   - **J.A.R.V.I.S.** (Voice-Activated AI Assistant in Python with SpeechRecognition and pyttsx3)
+   - **MEDICO** (Django Hospital Management System with integrated medical chatbot)
+   - **ShopWise AI** (Agentic Hyper-Personalized Shopping Assistant · Hexaware Mavericks Designathon)
+   - **LEXISENSE** (Intelligent NLP & Text Analysis Platform)
+   - **Weather Forecasting System** (Supervised Machine Learning Predictive Model)
+6. **04 // Research**: Academic contribution published in the [*Journal of Advance and Future Research (JAAFR)*](https://rjwave.org/jaafr/viewpaperforall.php?paper=JAAFR2603799) on deep learning-based CRISPR gRNA efficiency prediction.
+7. **05 // Certifications**: Microsoft Certified: DevOps Engineer Expert, Microsoft Certified: Azure AI Fundamentals, Microsoft GenAI, IBM Data Analytics, NSDC Skill India, and Accenture Forage.
+8. **06 // Skills**: Categorized technical capabilities across AI/ML, Languages, Frameworks, Data Engineering/Cloud, Databases, and Tools.
+9. **07 // Achievements**: National-Level Basketball Player athletic profile showcasing discipline, leadership, and competitive resilience.
+10. **08 // Education**: Bachelor of Engineering in Computer Science and Engineering from SRM Valliammai Engineering College (Nov 2022 – May 2026, CGPA: 8.82, Completed Degree), Nirmala Matriculation HSC (88.6%), and St. Paul's SSLC (65.4%).
+11. **09 // Contact**: Direct contact channels (Email, LinkedIn, GitHub, Location in Chennai, India) and interactive message dispatch.
+12. **Footer**: Quick links, dynamic copyright year, and back-to-top navigation.
 
 ---
 
-## 🛠️ Local Development
+## 🛠️ Local Development & Preview
 
-Clone the repository:
+This project is built purely as a static website with zero dependencies or complex build steps.
+
+Serve locally with any HTTP server:
+
 ```bash
-git clone https://github.com/mrtechdynamo23/portfolio-enhanced.git
-cd portfolio-enhanced
-```
+# Using Python 3
+python -m http.server 8080
 
-Serve with any local HTTP server:
-```bash
-# Python 3
-python -m http.server 8000
-
-# Node.js (npx)
+# Using Node.js (npx)
 npx serve .
 ```
 
-Open `http://localhost:8000` in your browser.
+Open `http://localhost:8080` in your web browser.
+
+---
+
+## 🌐 Deployment Options
+
+Ready to deploy immediately to:
+- **GitHub Pages**: Push repository and enable GitHub Pages on `main` branch.
+- **Netlify**: Drag and drop repository or link Git repository.
+- **Vercel**: Run `vercel` or link GitHub repository.
 
 ---
 
 ## 📬 Connect
 
-- **Portfolio**: [https://mrtechdynamo23.github.io/portfolio-enhanced/](https://mrtechdynamo23.github.io/portfolio-enhanced/)
-- **LinkedIn**: [linkedin.com/in/sudharrshan-s](https://www.linkedin.com/in/sudharrshan-s)
-- **GitHub**: [@mrtechdynamo23](https://github.com/mrtechdynamo23)
-- **Email**: [sudharrshancourse23@gmail.com](mailto:sudharrshancourse23@gmail.com)
+- **GitHub**: [github.com/shamyukthaS](https://github.com/shamyukthaS)
+- **LinkedIn**: [linkedin.com/in/shamyukthasuresh](https://www.linkedin.com/in/shamyukthasuresh/)
+- **Email**: [shamyukthasuresh7@gmail.com](mailto:shamyukthasuresh7@gmail.com)
